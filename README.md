@@ -27,8 +27,13 @@ Let's see
 Radian is
 > "The angle made when the radius is wrapped round the circle. (mathsisfun.com)"
 
+1 **radia** = 57.2958 **degree**
+3.1416 **radians** = phi **radians** = 180 **degree**
+6.28 **radians** = 2 * phi **radians** = 360 **degree**
+
+It's simple,isn't it ?
 
 
 
 
-##### _with love,_ whentea
+`_with love,_ whentea`
