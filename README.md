@@ -1,6 +1,8 @@
 
 ![mathematics](https://www.build-electronic-circuits.com/wp-content/uploads/2013/05/pcb.jpg = 200x200)
 
+<img src="https://github.com/favicon.ico" width="48">
+
 ## Fundamental Mathematics for Electronics and Computer Engineering
 
 #### Mathematics is a tool for anyone who wants to learn Electronics and Computer Engineering deeply
