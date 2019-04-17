@@ -18,7 +18,9 @@
 * Matrix
 * Supplement topics :
 	* Radians
+	* Sine, Cosine, Tangent
 	* Frequency
+	* Phase
 	* etc.
 
 
