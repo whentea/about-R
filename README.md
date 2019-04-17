@@ -4,7 +4,7 @@
 
 #### Mathematics is fun, isn't it ? So, let's started our exceptional journey ....
 
-#### Here are the mathematics topics :
+#### Here is the list of mathematics topics :
 
 * Functions
 * Limit
