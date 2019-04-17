@@ -21,4 +21,12 @@
 	* etc.
 
 
+Let's see
+## RADIANS
+
+Radian is
+> "The angle made when the radius is wrapped round the circle."
+
+
+
 with love, whentea
