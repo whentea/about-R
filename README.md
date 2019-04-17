@@ -29,7 +29,7 @@ Radian is
 
 1 **radian** = 57.2958 **degree**
 
-3.1416 **radians** = phi **radians** = 180 **degree**
+3.1416 **radians** = <img src="https://www.codecogs.com/eqnedit.php?latex=E=mc%5E2" width="20"> **radians** = 180 **degree**
 
 6.28 **radians** = 2 * phi **radians** = 360 **degree**
 
