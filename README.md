@@ -8,12 +8,12 @@
 
 * Functions
 * Limit
-* Differential
+* Differentiation
 * Integral
 * Supplement topics :
 	* Radians
+	* Frequency
+	* etc.
 
 
-
-
-whentea
+with love, whentea
