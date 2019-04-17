@@ -1,5 +1,5 @@
 
-![https://www.build-electronic-circuits.com/](https://www.build-electronic-circuits.com/wp-content/uploads/2013/05/pcb.jpg)
+![https://www.build-electronic-circuits.com/](https://www.build-electronic-circuits.com/wp-content/uploads/2013/05/pcb.jpg =100x20)
 
 
 ## Fundamental Mathematics for Electronics and Computer Engineering
