@@ -15,7 +15,7 @@ It's simple, isn't it ?
 
 
 
-## Sine, Cosine and Tangent
+## Unit Circle: Sine, Cosine and Tangent
 
 ## Cartesian Coordinates (included Number Line)
 
