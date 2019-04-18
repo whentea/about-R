@@ -15,6 +15,10 @@ Let's see
 
 Example : <a href="https://www.codecogs.com/eqnedit.php?latex=\log_{2}\left&space;(&space;8&space;\right&space;)=&space;3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\log_{2}\left&space;(&space;8&space;\right&space;)=&space;3" title="\log_{2}\left ( 8 \right )= 3" /></a>
 
+Logartihms answers the question "What **exponent** do we need ?"  
+Common Logarithms : Base 10  
+Natural Logarithms : Base "e" where e = 2.71828  
+Example : <a href="https://www.codecogs.com/eqnedit.php?latex=\ln&space;\left&space;(&space;7.389&space;\right&space;)=&space;\log&space;_{e}\left&space;(&space;7.389&space;\right&space;)=&space;2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\ln&space;\left&space;(&space;7.389&space;\right&space;)=&space;\log&space;_{e}\left&space;(&space;7.389&space;\right&space;)=&space;2" title="\ln \left ( 7.389 \right )= \log _{e}\left ( 7.389 \right )= 2" /></a>  
 
 <br/>
 
