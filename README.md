@@ -17,6 +17,7 @@
 * Integral
 * Matrix
 * Supplement topics :
+	* Logarithms
 	* Radians
 	* Sine, Cosine, Tangent (there are three other functions : sec, csc, cot)
 	* Frequency
