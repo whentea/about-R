@@ -7,7 +7,7 @@ Let's see
 * X and Y Axis. Writing Coordinates (x,y)
 
 * Four Quadrants I, II, III, IV
-
+<br/>
 
 ## Logarithms
 
@@ -15,7 +15,6 @@ Let's see
 
 Example : <a href="https://www.codecogs.com/eqnedit.php?latex=\log_{2}\left&space;(&space;8&space;\right&space;)=&space;3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\log_{2}\left&space;(&space;8&space;\right&space;)=&space;3" title="\log_{2}\left ( 8 \right )= 3" /></a>
 
-<br/>
 <br/>
 
 ## RADIANS
@@ -30,7 +29,7 @@ Radian is
 6.28 **radians** = 2<a href="https://www.codecogs.com/eqnedit.php?latex=\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" /></a> **radians** = 360 **degree**
 
 It's simple, isn't it ?
-
+<br/>
 
 
 ## Unit Circle: Sine, Cosine and Tangent
@@ -43,5 +42,5 @@ It's simple, isn't it ?
 
 ## Inverse Sine Function
 
-
+<br/>
 _with love,_ whentea
