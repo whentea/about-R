@@ -30,6 +30,7 @@ Radian is
 
 It's simple, isn't it ?
 <br/>
+<br/>
 
 
 ## Unit Circle: Sine, Cosine and Tangent
@@ -38,7 +39,7 @@ It's simple, isn't it ?
 
 ## Rationalize the Denominator
 
-## Graphs of SIne, Cosine and Tangent
+## Graphs of Sine, Cosine and Tangent
 
 ## Inverse Sine Function
 
