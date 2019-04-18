@@ -15,6 +15,7 @@ Let's see
 
 Example : <a href="https://www.codecogs.com/eqnedit.php?latex=\log_{2}\left&space;(&space;8&space;\right&space;)=&space;3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\log_{2}\left&space;(&space;8&space;\right&space;)=&space;3" title="\log_{2}\left ( 8 \right )= 3" /></a>
 
+
 <br/>
 
 ## RADIANS
@@ -43,5 +44,5 @@ It's simple, isn't it ?
 
 ## Inverse Sine Function
 
-<br/>
+<br/>  
 _with love,_ whentea
