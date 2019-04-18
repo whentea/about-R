@@ -2,7 +2,7 @@ Let's see
 
 ## Cartesian Coordinates (included Number Line)
 
-Cartesian Coordinats can be used to **pinpoint** where we are on a map or a graph.
+Cartesian Coordinats can be used to **pinpoint** (menunjukkan dengan tepat) where we are on a map or a graph.
 
 
 
