@@ -47,6 +47,5 @@ It's simple, isn't it ?
 <br/>  
   
   
-with love,
-
+with love,  
 whentea
