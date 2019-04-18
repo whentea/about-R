@@ -1,5 +1,12 @@
 Let's see
 
+## Cartesian Coordinates (included Number Line)
+
+Cartesian Coordinats can be used to **pinpoint** where we are on a map or a graph.
+
+
+
+
 ## RADIANS
 
 Radian is
@@ -16,8 +23,6 @@ It's simple, isn't it ?
 
 
 ## Unit Circle: Sine, Cosine and Tangent
-
-## Cartesian Coordinates (included Number Line)
 
 ## Quadrant
 
