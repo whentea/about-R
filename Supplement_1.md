@@ -45,4 +45,8 @@ It's simple, isn't it ?
 ## Inverse Sine Function
 
 <br/>  
-_with love,_ whentea
+  
+  
+with love,
+
+whentea
