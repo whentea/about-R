@@ -2,16 +2,18 @@ Let's see
 
 ## Cartesian Coordinates
 
-> Cartesian Coordinats can be used to **pinpoint** (menunjukkan dengan tepat) where we are on a map or a graph.
+> "Cartesian Coordinats can be used to **pinpoint** (menunjukkan dengan tepat) where we are on a map or a graph."
 
-* X and Y Axis
+* X and Y Axis. Writing Coordinates (x,y)
 
-* Writing Coordinates
+* Four Quadrants I, II, III, IV
 
-* Cartesian
 
-* Four Quadrants
+## Logarithms
 
+> "How many of one number do we multiple to get another number ?"
+
+Example : <a href="https://www.codecogs.com/eqnedit.php?latex=\log_{2}\left&space;(&space;8&space;\right&space;)=&space;3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\log_{2}\left&space;(&space;8&space;\right&space;)=&space;3" title="\log_{2}\left ( 8 \right )= 3" /></a>
 
 
 
