@@ -18,7 +18,7 @@
 * Matrix
 * Supplement topics :
 	* Radians
-	* Sine, Cosine, Tangent
+	* Sine, Cosine, Tangent (there are three other functions : sec, csc, cot)
 	* Frequency
 	* Phase
 	* etc.
