@@ -5,26 +5,30 @@
 
 ## Fundamental Mathematics for Electronics and Computer Engineering
 
-#### Mathematics is a tool for anyone who wants to learn Electronics and Computer Engineering deeply
-
-#### Mathematics is fun, isn't it ? So, let's started our exceptional journey ....
-
-#### Here is the list of mathematics topics for u:
-
-* Functions
-* Limit
-* Differentiation
-* Integral
-* Matrix
-* Supplement topics :
-	* Logarithms
-	* Radians
-	* Sine, Cosine, Tangent (there are three other functions : sec, csc, cot)
-	* Frequency
-	* Phase
-	* etc.
-
-
-
+#### Mathematics is a tool for anyone who wants to learn Electronics and Computer Engineering deeply  
+#### Mathematics is fun, isn't it ? So, let's started our exceptional journey ....  
+#### Here is the list of mathematics topics for u:  
+* Calculus  
+  * Limits  
+  * Derivatives  
+  * Integration  
+  * Differential Equations  
+* Algebra  
+  * The Basics  
+  * Exponents  
+  * Simplifying  
+  * Factoring  
+  * Logarithms  
+  * Polinomials  
+  * Linear Equations  
+  * Quadratics Equations  
+  * Function  
+  * Sets  
+  * Vectors  
+  * Matrices
+* Supplement Materials such as  
+  * Numbers  
+  * Geometry (Trigonometry)
+<br/>
 
 _with love,_ whentea
