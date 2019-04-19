@@ -1,12 +1,10 @@
-Let's see
+Let's see ......
 
 ## Cartesian Coordinates
 
-> "Cartesian Coordinats can be used to **pinpoint** (menunjukkan dengan tepat) where we are on a map or a graph."
-
-* X and Y Axis. Writing Coordinates (x,y)
-
-* Four Quadrants I, II, III, IV
+> "Cartesian Coordinats can be used to **pinpoint** (menunjukkan dengan tepat) where we are on a map or a graph."  
+* X and Y Axis. Writing Coordinates (x,y)  
+* Four Quadrants I, II, III, IV  
 <br/>
 
 ## Logarithms
@@ -25,14 +23,10 @@ Example : <a href="https://www.codecogs.com/eqnedit.php?latex=\ln&space;\left&sp
 ## RADIANS
 
 Radian is
-> "The angle made when the radius is wrapped round the circle. (mathsisfun.com)"
-
-1 **radian** = 57.2958 **degree**
-
-3.1416 **radians** = <a href="https://www.codecogs.com/eqnedit.php?latex=\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" /></a> **radians** = 180 **degree**
-
-6.28 **radians** = 2<a href="https://www.codecogs.com/eqnedit.php?latex=\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" /></a> **radians** = 360 **degree**
-
+> "The angle made when the radius is wrapped round the circle. (mathsisfun.com)"  
+1 **radian** = 57.2958 **degree**  
+3.1416 **radians** = <a href="https://www.codecogs.com/eqnedit.php?latex=\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" /></a> **radians** = 180 **degree**  
+6.28 **radians** = 2<a href="https://www.codecogs.com/eqnedit.php?latex=\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" /></a> **radians** = 360 **degree**  
 It's simple, isn't it ?
 <br/>
 <br/>
@@ -49,7 +43,5 @@ It's simple, isn't it ?
 ## Inverse Sine Function
 
 <br/>  
-  
-  
 with love,  
 whentea
