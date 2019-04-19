@@ -34,7 +34,10 @@ It's simple, isn't it ?
 
 ## Unit Circle: Sine, Cosine and Tangent
 
-## Matrix and Matrices
+## Scalar, Vector, Matrix and Matrices
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;1&space;&&space;2&space;&&space;3\\&space;2&space;&&space;4&space;&&space;6\\&space;3&space;&&space;5&space;&&space;7&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;1&space;&&space;2&space;&&space;3\\&space;2&space;&&space;4&space;&&space;6\\&space;3&space;&&space;5&space;&&space;7&space;\end{bmatrix}" title="\begin{bmatrix} 1 & 2 & 3\\ 2 & 4 & 6\\ 3 & 5 & 7 \end{bmatrix}" /></a>  
+
 
 ## Rationalize the Denominator
 
