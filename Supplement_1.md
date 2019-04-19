@@ -34,7 +34,7 @@ It's simple, isn't it ?
 
 ## Unit Circle: Sine, Cosine and Tangent
 
-## Quadrant
+## Matrix and Matrices
 
 ## Rationalize the Denominator
 
