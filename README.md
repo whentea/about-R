@@ -28,7 +28,8 @@
   * Matrices
 * Supplement Materials such as  
   * Numbers  
-  * Geometry (Trigonometry)
+  * Geometry (Trigonometry)  
+  * Euler's Theorem 
 <br/>
 
 _with love,_ whentea
