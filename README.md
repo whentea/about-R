@@ -27,7 +27,7 @@
   * Vectors  
   * Matrices
 * Supplement Materials such as  
-  * Numbers  
+  * Numbers (Special Numbers)
   * Geometry (Trigonometry)  
   * Euler's Theorem 
 <br/>
