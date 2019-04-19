@@ -40,8 +40,9 @@ This is a SCALAR ex. 55
 A vector is a list of numbers (can be in a row or a column).  
 This is a VECTOR
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;1&space;&&space;2&space;&&space;3&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;1&space;&&space;2&space;&&space;3&space;\end{bmatrix}" title="\begin{bmatrix} 1 & 2 & 3 \end{bmatrix}" /></a>  
-A matrix ia an array of numbers (one or more rows, one or more columns).  
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;1&space;&&space;2&space;&&space;3&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;1&space;&&space;2&space;&&space;3&space;\end{bmatrix}" title="\begin{bmatrix} 1 & 2 & 3 \end{bmatrix}" /></a>
+
+A matrix is an array of numbers (one or more rows, one or more columns).  
 This is a MATRIX
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;1&space;&&space;2&space;&&space;3\\&space;2&space;&&space;4&space;&&space;6\\&space;3&space;&&space;5&space;&&space;7&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;1&space;&&space;2&space;&&space;3\\&space;2&space;&&space;4&space;&&space;6\\&space;3&space;&&space;5&space;&&space;7&space;\end{bmatrix}" title="\begin{bmatrix} 1 & 2 & 3\\ 2 & 4 & 6\\ 3 & 5 & 7 \end{bmatrix}" /></a>  
