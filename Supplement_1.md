@@ -39,7 +39,7 @@ It's simple, isn't it ?
 A scalar is a number  
 A vector is a list of numbers (can be in a row or a column)
 A matrix ia an array of numbers (one or more rows, one or more columns)  
-This is SCALAR 55  
+This is SCALAR ex. 55  
 This is VECTOR
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;1&space;&&space;2&space;&&space;3&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;1&space;&&space;2&space;&&space;3&space;\end{bmatrix}" title="\begin{bmatrix} 1 & 2 & 3 \end{bmatrix}" /></a>  
