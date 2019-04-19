@@ -53,5 +53,4 @@ This is a MATRIX
 ## Inverse Sine Function
 
 <br/>  
-with love,  
 **whentea**
