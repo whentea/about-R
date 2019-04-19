@@ -29,8 +29,6 @@ Radian is
 6.28 **radians** = 2<a href="https://www.codecogs.com/eqnedit.php?latex=\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" /></a> **radians** = 360 **degree**  
 It's simple, isn't it ?
 <br/>
-<br/>
-
 
 ## Unit Circle: Sine, Cosine and Tangent
 
