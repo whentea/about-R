@@ -34,7 +34,7 @@ The cosine function
 <a href="https://www.codecogs.com/eqnedit.php?latex=\\&space;cos(22.6^{\circ})&space;=&space;x&space;/&space;13&space;\\&space;x&space;=&space;12.002" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\\&space;cos(22.6^{\circ})&space;=&space;x&space;/&space;13&space;\\&space;x&space;=&space;12.002" title="\\ cos(22.6^{\circ}) = x / 13 \\ x = 12.002" /></a>  
 
 The sine function  
-<a href="https://www.codecogs.com/eqnedit.php?latex=\\&space;sin&space;(22.6^{\circ})&space;=&space;y&space;/&space;13&space;\\&space;y&space;=&space;4.996" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\\&space;sin&space;(22.6^{\circ})&space;=&space;y&space;/&space;13&space;\\&space;y&space;=&space;4.996" title="\\ sin (22.6^{\circ}) = y / 13 \\ y = 4.996" /></a>  
+<a href="https://www.codecogs.com/eqnedit.php?latex=\\&space;sin&space;(22.6^{\circ})&space;=&space;y&space;/&space;13&space;\\&space;y&space;=&space;13&space;\times&space;sin(22.6^{\circ})&space;=&space;4.996" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\\&space;sin&space;(22.6^{\circ})&space;=&space;y&space;/&space;13&space;\\&space;y&space;=&space;13&space;\times&space;sin(22.6^{\circ})&space;=&space;4.996" title="\\ sin (22.6^{\circ}) = y / 13 \\ y = 13 \times sin(22.6^{\circ}) = 4.996" /></a>  
 The result is **almost** **exactly** (12,5)
 
 
