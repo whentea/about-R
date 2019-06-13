@@ -10,6 +10,7 @@ We start from here ....
 * Polar Coordinates : by HOW FAR ALONG and WHAT ANGLE
 
 <img src="https://github.com/whentea/afbeldingeen/blob/master/coordinates-polar.svg" align="center" width="300">
+
 ### Converting one to the other
 
 ### Complex Number  
