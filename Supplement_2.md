@@ -11,7 +11,10 @@ We start from here ....
 
 <img src="https://github.com/whentea/afbeldingeen/blob/master/coordinates-polar.svg" align="center" width="300">
 
-### Converting one to the other
+### Converting one to the other  
+We will use this  
+<img src="https://github.com/whentea/afbeldingeen/blob/master/convert_polar_coordinate.gif" align="center" width="400">  
+
 
 ### Complex Number  
 > a combination of a real and an imaginary number in the form a + bi
