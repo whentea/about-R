@@ -10,7 +10,7 @@ We start from here ....
 * Polar Coordinates : by HOW FAR ALONG and WHAT ANGLE
 
 <img src="https://github.com/whentea/afbeldingeen/blob/master/coordinates-polar.svg" align="center" width="300">
-Converting one to the other
+### Converting one to the other
 
 ### Complex Number  
 > a combination of a real and an imaginary number in the form a + bi
@@ -22,4 +22,8 @@ Notation:  z =  a + bi
 
 ### Euler's Formula for Complexs Number
 
-## Interested ? Read on !!!  
+## Interested ? Read on !!! 
+
+Refer to:  
+https://www.mathsisfun.com/  
+https://www.electronics-tutorials.ws/accircuits/sinusoidal-waveform.html
