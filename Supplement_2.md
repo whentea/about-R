@@ -38,9 +38,18 @@ The sine function
 The result is **almost** **exactly** (12,5)
 
 ### Negative Values of X and Y  
-<img src="https://github.com/whentea/afbeldingeen/blob/master/quadrant.gif" align="center" width="500">  
+<img src="https://github.com/whentea/afbeldingeen/blob/master/quadrant.gif" align="center" width="400">  
 
 
+### Euler's Formula for Complexs Number
+* Imaginary Number  
+`when squared gives negative result`  
+<a href="https://www.codecogs.com/eqnedit.php?latex=\\&space;imaginary^{2}&space;=&space;-1\\&space;i^{2}&space;=&space;-1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\\&space;imaginary^{2}&space;=&space;-1\\&space;i^{2}&space;=&space;-1" title="\\ imaginary^{2} = -1\\ i^{2} = -1" /></a>  
+
+* Taylor Series  
+* Euler's Formula  
+* Complex Number  
+  
 
 
 ### Complex Number  
@@ -49,9 +58,6 @@ The result is **almost** **exactly** (12,5)
 
 `imaginary number : when squared give negative result`
 Notation:  z =  a + bi
-
-
-### Euler's Formula for Complexs Number
 
 ## Interested ? Read on !!! 
 
