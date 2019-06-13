@@ -44,7 +44,8 @@ The result is **almost** **exactly** (12,5)
 ### Euler's Formula for Complexs Number
 * Imaginary Number  
 `when squared gives negative result`  
-<a href="https://www.codecogs.com/eqnedit.php?latex=\\&space;imaginary^{2}&space;=&space;-1\\&space;i^{2}&space;=&space;-1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\\&space;imaginary^{2}&space;=&space;-1\\&space;i^{2}&space;=&space;-1" title="\\ imaginary^{2} = -1\\ i^{2} = -1" /></a>  
+<a href="https://www.codecogs.com/eqnedit.php?latex=\\&space;imaginary^{2}&space;=&space;-1\\&space;i^{2}&space;=&space;-1\\&space;i&space;=&space;\sqrt(-1)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\\&space;imaginary^{2}&space;=&space;-1\\&space;i^{2}&space;=&space;-1\\&space;i&space;=&space;\sqrt(-1)" title="\\ imaginary^{2} = -1\\ i^{2} = -1\\ i = \sqrt(-1)" /></a>
+<img src="https://github.com/whentea/afbeldingeen/blob/master/rotation_vector.gif" align="center" width="400">  
 
 * Taylor Series  
 * Euler's Formula  
