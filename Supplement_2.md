@@ -28,6 +28,9 @@ Converting the poin (12,5) from cartesian form to polar form !
 and the reult is <a href="https://www.codecogs.com/eqnedit.php?latex=(13,&space;22.6^{\circ})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(13,&space;22.6^{\circ})" title="(13, 22.6^{\circ})" /></a>
 
 ### From Polar <a href="https://www.codecogs.com/eqnedit.php?latex=(r,&space;\theta&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(r,&space;\theta&space;)" title="(r, \theta )" /></a>  to Cartesian (x,y)  
+To convert point from polar to cartesian, we use Cosine and Sine Function. Look at the following picture :  
+<img src="https://github.com/whentea/afbeldingeen/blob/master/cosine_sine.gif" align="center" width="400">  
+
 
 
 
