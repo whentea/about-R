@@ -2,7 +2,7 @@ We start from here ....
 
 ### Polar and Cartesian Coordinates  
 `to pinpoint where we are on a map or graph, there are two main systems namely polar and cartesian coordinates`  
-* Cartesian Coordinates : by HOW FAR ALONG and HOW FAR UP
+* Cartesian Coordinates : by HOW FAR AWAY and HOW FAR UP
 
 <img src="https://github.com/whentea/afbeldingeen/blob/master/coordinates-cartesian.svg" align="center" width="300">
 
@@ -10,6 +10,7 @@ We start from here ....
 * Polar Coordinates : by HOW FAR ALONG and WHAT ANGLE
 
 <img src="https://github.com/whentea/afbeldingeen/blob/master/coordinates-polar.svg" align="center" width="300">
+Converting one to the other
 
 ### Complex Number  
 > a combination of a real and an imaginary number in the form a + bi
