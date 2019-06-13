@@ -1,4 +1,4 @@
-## Interested ? Read on !!!  
+We start from here ....
 
 ### Polar and Cartesian Coordinates  
 `to pinpoint where we are on a map or graph, there are two main systems namely polar and cartesian coordinates`  
@@ -20,3 +20,5 @@ Notation:  z =  a + bi
 
 
 ### Euler's Formula for Complexs Number
+
+## Interested ? Read on !!!  
