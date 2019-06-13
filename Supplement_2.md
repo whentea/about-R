@@ -14,6 +14,11 @@ We start from here ....
 ### Converting one to the other  
 We will use this  
 <img src="https://github.com/whentea/afbeldingeen/blob/master/convert_polar_coordinate.gif" align="center" width="400">  
+  
+### From Cartesian (x,y) to Polar  <a href="https://www.codecogs.com/eqnedit.php?latex=(r,&space;\theta&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(r,&space;\theta&space;)" title="(r, \theta )" /></a>  
+
+
+### From Polar to Cartesian  
 
 
 ### Complex Number  
