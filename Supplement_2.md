@@ -17,7 +17,10 @@ We will use this
   
 ### From Cartesian (x,y) to Polar  <a href="https://www.codecogs.com/eqnedit.php?latex=(r,&space;\theta&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(r,&space;\theta&space;)" title="(r, \theta )" /></a>  
 Use Pythagoras Theorem and Tangent Function  
-* Example: Poin (12, 5) in Polar is <a href="https://www.codecogs.com/eqnedit.php?latex=(12,&space;22.6^{\circ})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(12,&space;22.6^{\circ})" title="(12, 22.6^{\circ})" /></a>  
+* Example:  
+Converting the poin (12,5) in Polar is ...  
+
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=\\&space;Pythagoras&space;Theorema:\\&space;r^{2}&space;=&space;12^{2}&space;&plus;&space;5^{2}\\&space;r&space;=&space;\sqrt(12^{2}&space;&plus;&space;5^{2})\\&space;r&space;=&space;\sqrt(144&plus;25)\\&space;r&space;=&space;\sqrt(169)\\&space;r&space;=&space;13" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\\&space;Pythagoras&space;Theorema:\\&space;r^{2}&space;=&space;12^{2}&space;&plus;&space;5^{2}\\&space;r&space;=&space;\sqrt(12^{2}&space;&plus;&space;5^{2})\\&space;r&space;=&space;\sqrt(144&plus;25)\\&space;r&space;=&space;\sqrt(169)\\&space;r&space;=&space;13" title="\\ Pythagoras Theorema:\\ r^{2} = 12^{2} + 5^{2}\\ r = \sqrt(12^{2} + 5^{2})\\ r = \sqrt(144+25)\\ r = \sqrt(169)\\ r = 13" /></a>
 
 ### From Polar <a href="https://www.codecogs.com/eqnedit.php?latex=(r,&space;\theta&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(r,&space;\theta&space;)" title="(r, \theta )" /></a>  to Cartesian (x,y)  
