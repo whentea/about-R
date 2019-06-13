@@ -45,13 +45,16 @@ The result is **almost** **exactly** (12,5)
 * Imaginary Number  
 `when squared gives negative result`  
 <a href="https://www.codecogs.com/eqnedit.php?latex=\\&space;imaginary^{2}&space;=&space;-1\\&space;i^{2}&space;=&space;-1\\&space;i&space;=&space;\sqrt(-1)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\\&space;imaginary^{2}&space;=&space;-1\\&space;i^{2}&space;=&space;-1\\&space;i&space;=&space;\sqrt(-1)" title="\\ imaginary^{2} = -1\\ i^{2} = -1\\ i = \sqrt(-1)" /></a>
-<img src="https://github.com/whentea/afbeldingeen/blob/master/rotation_vector.gif" align="center" width="400">  
+<img src="https://github.com/whentea/afbeldingeen/blob/master/rotation_vector.gif" align="center" width="600">  
 
 * Taylor Series  
-* Euler's Formula  
-* Complex Number  
-  
 
+* Euler's Formula  
+<a href="https://www.codecogs.com/eqnedit.php?latex=e^{ix}&space;=&space;\cos&space;x&space;&plus;&space;i&space;\sin&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?e^{ix}&space;=&space;\cos&space;x&space;&plus;&space;i&space;\sin&space;x" title="e^{ix} = \cos x + i \sin x" /></a>  
+
+* Complex Number  
+When x = 1.1  
+<a href="https://www.codecogs.com/eqnedit.php?latex=\\&space;e^{ix}&space;=&space;\cos&space;x&space;&plus;&space;i&space;\sin&space;x\\&space;e^{1.1x}&space;=&space;\cos&space;1.1&space;&plus;&space;i&space;\sin&space;1.1\\&space;e^{1.1x}&space;=&space;0.45&space;&plus;&space;0.89i" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\\&space;e^{ix}&space;=&space;\cos&space;x&space;&plus;&space;i&space;\sin&space;x\\&space;e^{1.1x}&space;=&space;\cos&space;1.1&space;&plus;&space;i&space;\sin&space;1.1\\&space;e^{1.1x}&space;=&space;0.45&space;&plus;&space;0.89i" title="\\ e^{ix} = \cos x + i \sin x\\ e^{1.1x} = \cos 1.1 + i \sin 1.1\\ e^{1.1x} = 0.45 + 0.89i" /></a>  
 
 ### Complex Number  
 > a combination of a real and an imaginary number in the form a + bi
