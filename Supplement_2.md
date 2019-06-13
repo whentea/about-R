@@ -16,8 +16,8 @@ We will use this
 <img src="https://github.com/whentea/afbeldingeen/blob/master/convert_polar_coordinate.gif" align="center" width="400">  
   
 ### From Cartesian (x,y) to Polar  <a href="https://www.codecogs.com/eqnedit.php?latex=(r,&space;\theta&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(r,&space;\theta&space;)" title="(r, \theta )" /></a>  
-Use Pythagoras Theorem and Tangent Function  
-* Example:  
+To convert point from cartesian to polar, we use Pythagoras Theorem and Tangent Function  
+Example:  
 Converting the poin (12,5) from cartesian form to polar form !  
 
 
