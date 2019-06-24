@@ -25,7 +25,10 @@ Converting the poin (12,5) from cartesian form to polar form !
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\\&space;Tangen&space;function\\&space;tan&space;(\theta&space;)&space;=&space;5/12\\&space;\theta&space;=&space;arctan&space;\theta&space;=&space;tan&space;^{-1}(5/12)&space;=&space;tan&space;^{-1}(0.416)\\&space;\theta&space;=&space;22.6^{\circ}\\" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\\&space;Tangen&space;function\\&space;tan&space;(\theta&space;)&space;=&space;5/12\\&space;\theta&space;=&space;arctan&space;\theta&space;=&space;tan&space;^{-1}(5/12)&space;=&space;tan&space;^{-1}(0.416)\\&space;\theta&space;=&space;22.6^{\circ}\\" title="\\ Tangen function\\ tan (\theta ) = 5/12\\ \theta = arctan \theta = tan ^{-1}(5/12) = tan ^{-1}(0.416)\\ \theta = 22.6^{\circ}\\" /></a>
 
-and the reult is <a href="https://www.codecogs.com/eqnedit.php?latex=(13,&space;22.6^{\circ})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(13,&space;22.6^{\circ})" title="(13, 22.6^{\circ})" /></a>
+and the reult is <a href="https://www.codecogs.com/eqnedit.php?latex=(13,&space;22.6^{\circ})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(13,&space;22.6^{\circ})" title="(13, 22.6^{\circ})" /></a>  
+
+In fact, a common way to write a complex number in polar form is  
+ 
 
 ### From Polar <a href="https://www.codecogs.com/eqnedit.php?latex=(r,&space;\theta&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(r,&space;\theta&space;)" title="(r, \theta )" /></a>  to Cartesian (x,y)  
 To convert point from polar to cartesian, we use Cosine and Sine Function. Look at the following picture :  
@@ -35,11 +38,11 @@ The cosine function
 
 The sine function  
 <a href="https://www.codecogs.com/eqnedit.php?latex=\\&space;sin&space;(22.6^{\circ})&space;=&space;y&space;/&space;13&space;\\&space;y&space;=&space;13&space;\times&space;sin(22.6^{\circ})&space;=&space;4.996" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\\&space;sin&space;(22.6^{\circ})&space;=&space;y&space;/&space;13&space;\\&space;y&space;=&space;13&space;\times&space;sin(22.6^{\circ})&space;=&space;4.996" title="\\ sin (22.6^{\circ}) = y / 13 \\ y = 13 \times sin(22.6^{\circ}) = 4.996" /></a>  
-The result is **almost** **exactly** (12,5)
+The result is **almost** **exactly** (12,5)  
 
-### Negative Values of X and Y  
-<img src="https://github.com/whentea/afbeldingeen/blob/master/quadrant.gif" align="center" width="400">  
+### In fact, a common way to write complex number in Polar Form is  
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=x&space;&plus;&space;iy&space;=&space;\\&space;r&space;\,&space;cos&space;\,&space;\theta&space;&plus;&space;i\,&space;r&space;\,sin\,&space;\theta&space;=&space;\\&space;r(cos&space;\,\theta&space;&plus;&space;i\,&space;sin&space;\,\theta&space;)&space;=&space;\\&space;r&space;\,cis&space;\,&space;\theta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x&space;&plus;&space;iy&space;=&space;\\&space;r&space;\,&space;cos&space;\,&space;\theta&space;&plus;&space;i\,&space;r&space;\,sin\,&space;\theta&space;=&space;\\&space;r(cos&space;\,\theta&space;&plus;&space;i\,&space;sin&space;\,\theta&space;)&space;=&space;\\&space;r&space;\,cis&space;\,&space;\theta" title="x + iy = \\ r \, cos \, \theta + i\, r \,sin\, \theta = \\ r(cos \,\theta + i\, sin \,\theta ) = \\ r \,cis \, \theta" /></a>  
 
 ## Interested ? Read on !!! 
 
