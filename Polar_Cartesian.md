@@ -44,6 +44,8 @@ The result is **almost** **exactly** (12,5)
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=x&space;&plus;&space;iy&space;=&space;\\&space;r&space;\,&space;cos&space;\,&space;\theta&space;&plus;&space;i\,&space;r&space;\,sin\,&space;\theta&space;=&space;\\&space;r(cos&space;\,\theta&space;&plus;&space;i\,&space;sin&space;\,\theta&space;)&space;=&space;\\&space;r&space;\,cis&space;\,&space;\theta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x&space;&plus;&space;iy&space;=&space;\\&space;r&space;\,&space;cos&space;\,&space;\theta&space;&plus;&space;i\,&space;r&space;\,sin\,&space;\theta&space;=&space;\\&space;r(cos&space;\,\theta&space;&plus;&space;i\,&space;sin&space;\,\theta&space;)&space;=&space;\\&space;r&space;\,cis&space;\,&space;\theta" title="x + iy = \\ r \, cos \, \theta + i\, r \,sin\, \theta = \\ r(cos \,\theta + i\, sin \,\theta ) = \\ r \,cis \, \theta" /></a>  
 
+### De Moivre Formula : Squaring Complex Number  
+<a href="https://www.codecogs.com/eqnedit.php?latex=\\&space;\left&space;[r(cos\:\theta\:&plus;\:i\:r\:sin\:\theta)\right&space;]^{n}\\&space;r^{n}(cos\:n\theta&space;\:&plus;\:i\:sin\:n\theta&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\\&space;\left&space;[r(cos\:\theta\:&plus;\:i\:r\:sin\:\theta)\right&space;]^{n}\\&space;r^{n}(cos\:n\theta&space;\:&plus;\:i\:sin\:n\theta&space;)" title="\\ \left [r(cos\:\theta\:+\:i\:r\:sin\:\theta)\right ]^{n}\\ r^{n}(cos\:n\theta \:+\:i\:sin\:n\theta )" /></a>
 ## Interested ? Read on !!! 
 
 Refer to:  
