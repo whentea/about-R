@@ -27,7 +27,7 @@ Converting the poin (12,5) from cartesian form to polar form !
 
 and the reult is <a href="https://www.codecogs.com/eqnedit.php?latex=(13,&space;22.6^{\circ})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(13,&space;22.6^{\circ})" title="(13, 22.6^{\circ})" /></a>  
 
-In fact, a common way to write a complex number in polar form is  
+
  
 
 ### From Polar <a href="https://www.codecogs.com/eqnedit.php?latex=(r,&space;\theta&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(r,&space;\theta&space;)" title="(r, \theta )" /></a>  to Cartesian (x,y)  
