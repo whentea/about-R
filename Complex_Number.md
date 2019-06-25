@@ -15,11 +15,6 @@ A complex number consists of imaginary number and real number, and to distinguis
 
 * Notation
 
-
-<img src="https://github.com/whentea/images/blob/master/vector_rotation.gif" align="center" width="600">  
-
-
-<br\>
 * Complex Numbers using Rectangular Form  or Cartesian Coordinates  
 A complex number is represented by a real part and an imaginary part like this  
 <a href="https://www.codecogs.com/eqnedit.php?latex=Z&space;=&space;x&space;&plus;&space;jy" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Z&space;=&space;x&space;&plus;&space;jy" title="Z = x + jy" /></a>  
