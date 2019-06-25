@@ -5,12 +5,21 @@ A complex number consists of imaginary number and real number, and to distinguis
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=8&space;&plus;&space;4j\:atau\:8&plus;4i" target="_blank"><img src="https://latex.codecogs.com/gif.latex?8&space;&plus;&space;4j\:atau\:8&plus;4i" title="8 + 4j\:atau\:8+4i" /></a>
 
->>In mathematics we use "i" for imaginary number, but in electronics, electricians use "j" because in electronics, i already means current and the next letter is j. 
+>>In mathematics we use "i" for imaginary number, but in electronics, electricians use "j" because in electronics, i already means current and the next letter is j.   
+* A Visual Explanation  
+* Arithmatic Operation  
+- Adding  
+- Multipying  
+- Conjugates  
+- Dividing  
+
+* Notation
 
 
 <img src="https://github.com/whentea/images/blob/master/vector_rotation.gif" align="center" width="600">  
 
 
+<br\>
 * Complex Numbers using Rectangular Form  or Cartesian Coordinates  
 A complex number is represented by a real part and an imaginary part like this  
 <a href="https://www.codecogs.com/eqnedit.php?latex=Z&space;=&space;x&space;&plus;&space;jy" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Z&space;=&space;x&space;&plus;&space;jy" title="Z = x + jy" /></a>  
