@@ -3,7 +3,7 @@
 Complex numbers is frequently used in electrical engineering when dealing with frequency dependent sinusoidal sources and vectors. 
 A complex number consists of imaginary number and real number, and to distinguish the imaginary number from a real number, the j-operator letter is used.
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=8&space;&plus;&space;4j" target="_blank"><img src="https://latex.codecogs.com/gif.latex?8&space;&plus;&space;4j" title="8 + 4j" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=8&space;&plus;&space;4j\:atau\:8&plus;4i" target="_blank"><img src="https://latex.codecogs.com/gif.latex?8&space;&plus;&space;4j\:atau\:8&plus;4i" title="8 + 4j\:atau\:8+4i" /></a>
 
 >>In mathematics we use "i" for imaginary number, but in electronics, electricians use "j" because in electronics, i already means current and the next letter is j. 
 
