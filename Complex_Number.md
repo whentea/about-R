@@ -13,7 +13,8 @@ A complex number consists of imaginary number and real number, and to distinguis
 
 >>In mathematics we use "i" for imaginary number, but in electronics, electricians use "j" because in electronics, i already means current and the next letter is j. 
 
-* Complex Numbers using Rectangular Form  or Cartesian Coordinates
+* Complex Numbers using Rectangular Form  or Cartesian Coordinates  
+
 A complex number is represented by a real part and an imaginary part like this  
 <a href="https://www.codecogs.com/eqnedit.php?latex=Z&space;=&space;x&space;&plus;&space;jy" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Z&space;=&space;x&space;&plus;&space;jy" title="Z = x + jy" /></a>  
 where  
