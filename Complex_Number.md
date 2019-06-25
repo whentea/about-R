@@ -30,4 +30,10 @@ The polar number of a complex number is written in terms of its magnitude and an
 * Complex Numbers using Exponential Form  
 The exponential form is similar to the polar form that corresponds to the length (magnitude) and phase angle of sinusoidal wave but uses the base of the natural algorithm <a href="https://www.codecogs.com/eqnedit.php?latex=e&space;=&space;2.718281" target="_blank"><img src="https://latex.codecogs.com/gif.latex?e&space;=&space;2.718281" title="e = 2.718281" /></a> to find the value of complex number.  
 <a href="https://www.codecogs.com/eqnedit.php?latex=Z&space;=&space;Ae^{j\phi&space;}&space;Z&space;=&space;A(cos\phi&space;&plus;&space;jsin\phi&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Z&space;=&space;Ae^{j\phi&space;}&space;Z&space;=&space;A(cos\phi&space;&plus;&space;jsin\phi&space;)" title="Z = Ae^{j\phi } Z = A(cos\phi + jsin\phi )" /></a>
+  
+  
+## Interested ? Read on !!! 
 
+Refer to:  
+https://www.mathsisfun.com/  
+https://www.electronics-tutorials.ws/accircuits/sinusoidal-waveform.html
