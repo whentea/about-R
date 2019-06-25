@@ -25,7 +25,7 @@ Converting the poin (12,5) from cartesian form to polar form !
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\\&space;Tangen&space;function\\&space;tan&space;(\theta&space;)&space;=&space;5/12\\&space;\theta&space;=&space;arctan&space;\theta&space;=&space;tan&space;^{-1}(5/12)&space;=&space;tan&space;^{-1}(0.416)\\&space;\theta&space;=&space;22.6^{\circ}\\" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\\&space;Tangen&space;function\\&space;tan&space;(\theta&space;)&space;=&space;5/12\\&space;\theta&space;=&space;arctan&space;\theta&space;=&space;tan&space;^{-1}(5/12)&space;=&space;tan&space;^{-1}(0.416)\\&space;\theta&space;=&space;22.6^{\circ}\\" title="\\ Tangen function\\ tan (\theta ) = 5/12\\ \theta = arctan \theta = tan ^{-1}(5/12) = tan ^{-1}(0.416)\\ \theta = 22.6^{\circ}\\" /></a>
 
-and the reult is <a href="https://www.codecogs.com/eqnedit.php?latex=(13,&space;22.6^{\circ})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(13,&space;22.6^{\circ})" title="(13, 22.6^{\circ})" /></a>  
+and the result is <a href="https://www.codecogs.com/eqnedit.php?latex=(13,&space;22.6^{\circ})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(13,&space;22.6^{\circ})" title="(13, 22.6^{\circ})" /></a>  
 
 
  
