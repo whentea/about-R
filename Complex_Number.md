@@ -9,16 +9,16 @@ A complex number consists of imaginary number and real number, and to distinguis
 <a href="https://www.codecogs.com/eqnedit.php?latex=\\&space;i&space;=&space;\sqrt-1\\&space;i^{2}&space;=&space;-1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\\&space;i&space;=&space;\sqrt-1\\&space;i^{2}&space;=&space;-1" title="\\ i = \sqrt-1\\ i^{2} = -1" /></a>  
 
 >>In mathematics we use "i" for imaginary number, but in electronics, electricians use "j" because in electronics, i already means current and the next letter is j.   
-* A Visual Explanation  
+### A Visual Explanation  
 <img src="https://github.com/whentea/afbeldingeen/blob/master/complex-plane.svg" width="300">  
 
-* Arithmatic Operation  
+### Arithmatic Operation  
 - Adding :  add real number and add imaginary number, respectively.
 - Multipying  : just use "FOIL" : Firsts, Outers, Inners, Lasts
 - Conjugates  : a conjugate is often written with a bar over it
 - Dividing  : using a conjugate to solve complex division
 
-* Notation
+### Notation
 
 * Complex Numbers using Rectangular Form  or Cartesian Coordinates  
 A complex number is represented by a real part and an imaginary part like this  
