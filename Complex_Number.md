@@ -4,6 +4,9 @@ Complex numbers is frequently used in electrical engineering when dealing with f
 A complex number consists of imaginary number and real number, and to distinguish the imaginary number from a real number, the j-operator letter is used.
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=8&space;&plus;&space;4j\:atau\:8&plus;4i" target="_blank"><img src="https://latex.codecogs.com/gif.latex?8&space;&plus;&space;4j\:atau\:8&plus;4i" title="8 + 4j\:atau\:8+4i" /></a>
+8 is real number  
+4j or 4i is imaginary number  
+<a href="https://www.codecogs.com/eqnedit.php?latex=\\&space;i&space;=&space;\sqrt-1\\&space;i^{2}&space;=&space;-1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\\&space;i&space;=&space;\sqrt-1\\&space;i^{2}&space;=&space;-1" title="\\ i = \sqrt-1\\ i^{2} = -1" /></a>  
 
 >>In mathematics we use "i" for imaginary number, but in electronics, electricians use "j" because in electronics, i already means current and the next letter is j.   
 * A Visual Explanation  
