@@ -13,10 +13,10 @@ A complex number consists of imaginary number and real number, and to distinguis
 <img src="https://github.com/whentea/afbeldingeen/blob/master/complex-plane.svg" width="300">  
 
 * Arithmatic Operation  
-- Adding  
-- Multipying  
-- Conjugates  
-- Dividing  
+- Adding :  add real number and add imaginary number, respectively.
+- Multipying  : just use "FOIL" : Firsts, Outers, Inners, Lasts
+- Conjugates  : a conjugate is often written with a bar over it
+- Dividing  : using a conjugate to solve complex division
 
 * Notation
 
