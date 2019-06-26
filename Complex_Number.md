@@ -7,7 +7,7 @@ A complex number consists of imaginary number and real number, and to distinguis
 
 >>In mathematics we use "i" for imaginary number, but in electronics, electricians use "j" because in electronics, i already means current and the next letter is j.   
 * A Visual Explanation  
-<img src="https://github.com/whentea/afbeldingeen/blob/master/complex-plane.svg" width="400">  
+<img src="https://github.com/whentea/afbeldingeen/blob/master/complex-plane.svg" width="300">  
 
 * Arithmatic Operation  
 - Adding  
