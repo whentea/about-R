@@ -8,6 +8,7 @@ https://www.mathsisfun.com/definitions/variable.html
 https://www.mathsisfun.com/exponent.html  
 https://www.mathsisfun.com/definitions/open-interval.html  
 https://www.mathsisfun.com/definitions/closed-interval.html  
+https://www.mathsisfun.com/calculus/derivatives-introduction.html  
 https://www.mathsisfun.com/calculus/differential-equations.html  
 https://www.mathsisfun.com/sets/function.html  
 https://www.mathsisfun.com/sets/sets-introduction.html  
