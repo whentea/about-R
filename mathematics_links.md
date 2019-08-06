@@ -10,7 +10,7 @@ About Mathematical Formulation:
 5. https://www.mathsisfun.com/definitions/variable.html  
 6. https://www.mathsisfun.com/exponent.html  
 7. https://www.mathsisfun.com/data/mean-deviation.html  
-8.https://www.mathsisfun.com/sets/intervals.html
+8. https://www.mathsisfun.com/sets/intervals.html  
 9. https://www.mathsisfun.com/definitions/open-interval.html  
 10. https://www.mathsisfun.com/definitions/closed-interval.html  
 11. https://www.mathsisfun.com/calculus/derivatives-introduction.html  
