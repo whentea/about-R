@@ -21,7 +21,12 @@ https://www.mathsisfun.com/numbers/infinity.html
   
 
 Anything that correlated to a prediction :  
-https://arifqodari.wordpress.com/2015/09/22/kapan-menggunakan-mae-dan-mse/  
+https://arifqodari.wordpress.com/2015/09/22/kapan-menggunakan-mae-dan-mse/   
+https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d  
+https://dokumen.tips/download/link/metode-mengevaluasi-peramalandoc  
+  
+
+ 
 
 
 
@@ -29,5 +34,7 @@ Refer to:
 
 https://www.mathsisfun.com/  
 http://mathforum.org  
-https://arifqodari.wordpress.com/2015/09/22/kapan-menggunakan-mae-dan-mse/
+https://arifqodari.wordpress.com/2015/09/22/kapan-menggunakan-mae-dan-mse/  
+https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d  
+https://dokumen.tips/download/link/metode-mengevaluasi-peramalandoc
 
