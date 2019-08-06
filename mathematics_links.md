@@ -1,5 +1,8 @@
 # Here is the marvelous links  
 
+About Mathematical Formulation:  
+
+
 https://www.mathsisfun.com/algebra/definitions.html  
 https://www.mathsisfun.com/definitions/parameter.html  
 http://mathforum.org/library/drmath/view/61838.html  
@@ -14,11 +17,17 @@ https://www.mathsisfun.com/calculus/differential-equations.html
 https://www.mathsisfun.com/sets/function.html  
 https://www.mathsisfun.com/sets/sets-introduction.html  
 https://www.mathsisfun.com/numbers/real-numbers.html  
-https://www.mathsisfun.com/numbers/infinity.html 
+https://www.mathsisfun.com/numbers/infinity.html  
+  
+
+Anything that correlated to a prediction :  
+https://arifqodari.wordpress.com/2015/09/22/kapan-menggunakan-mae-dan-mse/  
+
 
 
 Refer to:  
 
 https://www.mathsisfun.com/  
-http://mathforum.org
+http://mathforum.org  
+https://arifqodari.wordpress.com/2015/09/22/kapan-menggunakan-mae-dan-mse/
 
