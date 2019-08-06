@@ -9,6 +9,7 @@ http://mathforum.org/library/drmath/view/61838.html
 https://www.mathsisfun.com/definitions/constant.html  
 https://www.mathsisfun.com/definitions/variable.html  
 https://www.mathsisfun.com/exponent.html  
+https://www.mathsisfun.com/data/mean-deviation.html  
 https://www.mathsisfun.com/definitions/open-interval.html  
 https://www.mathsisfun.com/definitions/closed-interval.html  
 https://www.mathsisfun.com/calculus/derivatives-introduction.html  
