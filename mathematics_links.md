@@ -10,15 +10,16 @@ About Mathematical Formulation:
 5. https://www.mathsisfun.com/definitions/variable.html  
 6. https://www.mathsisfun.com/exponent.html  
 7. https://www.mathsisfun.com/data/mean-deviation.html  
-8. https://www.mathsisfun.com/definitions/open-interval.html  
-9. https://www.mathsisfun.com/definitions/closed-interval.html  
-10. https://www.mathsisfun.com/calculus/derivatives-introduction.html  
-11. https://www.mathsisfun.com/calculus/derivatives-rules.html  
-12. https://www.mathsisfun.com/calculus/differential-equations.html  
-13. https://www.mathsisfun.com/sets/function.html  
-14. https://www.mathsisfun.com/sets/sets-introduction.html  
-15. https://www.mathsisfun.com/numbers/real-numbers.html  
-16. https://www.mathsisfun.com/numbers/infinity.html  
+8.https://www.mathsisfun.com/sets/intervals.html
+9. https://www.mathsisfun.com/definitions/open-interval.html  
+10. https://www.mathsisfun.com/definitions/closed-interval.html  
+11. https://www.mathsisfun.com/calculus/derivatives-introduction.html  
+12. https://www.mathsisfun.com/calculus/derivatives-rules.html  
+13. https://www.mathsisfun.com/calculus/differential-equations.html  
+14. https://www.mathsisfun.com/sets/function.html  
+15. https://www.mathsisfun.com/sets/sets-introduction.html  
+16. https://www.mathsisfun.com/numbers/real-numbers.html  
+17. https://www.mathsisfun.com/numbers/infinity.html  
   
 
 Anything that correlated to a prediction :  
