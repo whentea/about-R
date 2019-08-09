@@ -21,6 +21,8 @@ About Mathematical Formulation:
 16. https://www.mathsisfun.com/sets/sets-introduction.html  
 17. https://www.mathsisfun.com/numbers/real-numbers.html  
 18. https://www.mathsisfun.com/numbers/infinity.html  
+19. https://www.mathsisfun.com/calculus/limits.html  
+
   
 
 Anything that correlated to a prediction :  
