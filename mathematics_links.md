@@ -20,9 +20,10 @@ About Mathematical Formulation:
 15. https://www.mathsisfun.com/sets/function.html  
 16. https://www.mathsisfun.com/sets/functions-composition.html  
 17. https://www.mathsisfun.com/sets/sets-introduction.html  
-18. https://www.mathsisfun.com/numbers/real-numbers.html  
-19. https://www.mathsisfun.com/numbers/infinity.html  
-20. https://www.mathsisfun.com/calculus/limits.html  
+18. https://www.mathsisfun.com/sets/set-builder-notation.html  
+19. https://www.mathsisfun.com/numbers/real-numbers.html  
+20. https://www.mathsisfun.com/numbers/infinity.html  
+21. https://www.mathsisfun.com/calculus/limits.html  
 
   
 
