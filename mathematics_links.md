@@ -18,10 +18,11 @@ About Mathematical Formulation:
 13. https://www.mathsisfun.com/calculus/differential-equations.html  
 14. https://www.mathsisfun.com/algebra/taylor-series.html  
 15. https://www.mathsisfun.com/sets/function.html  
-16. https://www.mathsisfun.com/sets/sets-introduction.html  
-17. https://www.mathsisfun.com/numbers/real-numbers.html  
-18. https://www.mathsisfun.com/numbers/infinity.html  
-19. https://www.mathsisfun.com/calculus/limits.html  
+16. https://www.mathsisfun.com/sets/functions-composition.html  
+17. https://www.mathsisfun.com/sets/sets-introduction.html  
+18. https://www.mathsisfun.com/numbers/real-numbers.html  
+19. https://www.mathsisfun.com/numbers/infinity.html  
+20. https://www.mathsisfun.com/calculus/limits.html  
 
   
 
