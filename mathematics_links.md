@@ -23,7 +23,12 @@ About Mathematical Formulation:
 18. https://www.mathsisfun.com/sets/set-builder-notation.html  
 19. https://www.mathsisfun.com/numbers/real-numbers.html  
 20. https://www.mathsisfun.com/numbers/infinity.html  
-21. https://www.mathsisfun.com/calculus/limits.html  
+21. https://www.mathsisfun.com/definitions/limit.html  
+22. https://www.mathsisfun.com/calculus/limits.html  
+23. https://www.mathsisfun.com/calculus/limits-evaluating.html  
+24. https://www.mathsisfun.com/calculus/limits-infinity.html  
+25. https://www.mathsisfun.com/calculus/continuity.html  
+26.   
 
   
 
