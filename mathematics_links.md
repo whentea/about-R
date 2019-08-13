@@ -28,7 +28,8 @@ About Mathematical Formulation:
 23. https://www.mathsisfun.com/calculus/limits-evaluating.html  
 24. https://www.mathsisfun.com/calculus/limits-infinity.html  
 25. https://www.mathsisfun.com/calculus/continuity.html  
-26.   
+26. https://www.mathsisfun.com/equation_of_line.html  
+27. https://www.mathsisfun.com/algebra/systems-linear-equations.html   
 
   
 
