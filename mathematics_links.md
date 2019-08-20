@@ -19,18 +19,19 @@ About Mathematical Formulation:
 14. https://www.mathsisfun.com/algebra/taylor-series.html  
 15. https://www.mathsisfun.com/sets/function.html  
 16. https://www.mathsisfun.com/sets/functions-piecewise.html  
-17. https://www.mathsisfun.com/sets/functions-composition.html  
-18. https://www.mathsisfun.com/sets/sets-introduction.html  
-19. https://www.mathsisfun.com/sets/set-builder-notation.html  
-20. https://www.mathsisfun.com/numbers/real-numbers.html  
-21. https://www.mathsisfun.com/numbers/infinity.html  
-22. https://www.mathsisfun.com/definitions/limit.html  
-23. https://www.mathsisfun.com/calculus/limits.html  
-24. https://www.mathsisfun.com/calculus/limits-evaluating.html  
-25. https://www.mathsisfun.com/calculus/limits-infinity.html  
-26. https://www.mathsisfun.com/calculus/continuity.html  
-27. https://www.mathsisfun.com/equation_of_line.html  
-28. https://www.mathsisfun.com/algebra/systems-linear-equations.html   
+17. https://www.mathsisfun.com/sets/function-floor-ceiling.html
+18. https://www.mathsisfun.com/sets/functions-composition.html  
+19. https://www.mathsisfun.com/sets/sets-introduction.html  
+20. https://www.mathsisfun.com/sets/set-builder-notation.html  
+21. https://www.mathsisfun.com/numbers/real-numbers.html  
+22. https://www.mathsisfun.com/numbers/infinity.html  
+23. https://www.mathsisfun.com/definitions/limit.html  
+24. https://www.mathsisfun.com/calculus/limits.html  
+25. https://www.mathsisfun.com/calculus/limits-evaluating.html  
+26. https://www.mathsisfun.com/calculus/limits-infinity.html  
+27. https://www.mathsisfun.com/calculus/continuity.html  
+28. https://www.mathsisfun.com/equation_of_line.html  
+29. https://www.mathsisfun.com/algebra/systems-linear-equations.html   
 
   
 
