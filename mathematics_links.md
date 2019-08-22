@@ -32,7 +32,11 @@ About Mathematical Formulation:
 27. https://www.mathsisfun.com/calculus/continuity.html  
 28. https://www.mathsisfun.com/equation_of_line.html  
 29. https://www.mathsisfun.com/algebra/systems-linear-equations.html  
-30. https://  
+30. https://www.mathsisfun.com/calculus/integration-definite.html  
+31. https://www.mathsisfun.com/calculus/integration-introduction.html  
+32. https://www.mathsisfun.com/calculus/integration-rules.html  
+33. https://www.mathsisfun.com/definitions/indefinite-integral.html  
+34. https://www.mathsisfun.com/calculus/fourier-series.html  
 
   
 
