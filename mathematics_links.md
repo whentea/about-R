@@ -37,6 +37,14 @@ About Mathematical Formulation:
 32. https://www.mathsisfun.com/calculus/integration-rules.html  
 33. https://www.mathsisfun.com/definitions/indefinite-integral.html  
 34. https://www.mathsisfun.com/calculus/fourier-series.html  
+35. https://www.mathsisfun.com/algebra/scalar-vector-matrix.html  
+36. https://www.mathsisfun.com/definitions/scalar.html  
+37. https://www.mathsisfun.com/algebra/vectors.html  
+38. https://www.mathsisfun.com/algebra/matrix-introduction.html  
+39. https://www.mathsisfun.com/algebra/vectors-dot-product.html  
+40. https://www.mathsisfun.com/algebra/matrix-multiplying.html  
+41. https://www.mathsisfun.com/algebra/vectors-cross-product.html  
+
 
   
 
